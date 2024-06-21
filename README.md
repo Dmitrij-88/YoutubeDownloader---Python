@@ -1,5 +1,7 @@
 # YoutubeDownloader---Python
 
+This application allows you to download any youtube video in the highest quality possible straight to vscode, or to any directory of your choice.
+
 to run this application type in the terminal
  1) python install pytube
  2) python .\Downloader.py "https://www.youtube.com/watch?v=Im7zgLQS1eo"
